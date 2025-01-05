@@ -1,3 +1,10 @@
+**Company**: CODETECH IT SOLUTIONS
+**Name**: Lisha Angral
+**Intern ID**: CT08DS431
+**Domain**: Cybersecurity and Ethical Hacking
+**Batch Duration**: 5th Dec 2024 to 5th Jan 2025
+**Mentor Name**: Neela Santosh
+---
 # Password Authenticator Tool
 
 This repository contains a Password Authenticator Tool designed to assess the strength of passwords entered by users. The tool provides real-time feedback on password strength based on length, complexity, and uniqueness. It aims to guide users to create stronger, more secure passwords through an interactive and user-friendly interface.
