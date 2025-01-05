@@ -55,16 +55,16 @@ background: #0056b3;
 #feedback {
 margin-bottom: 10px;
 font-size: 14px;
-color: #555;
 }
+
 .feedback-strong {
 color: green;
 }
 
 .feedback-weak {
-color: red;
+color: rgb(164, 7, 7);
 }
 
 .feedback-moderate {
-color: orange;
+color: rgb(167, 97, 0);
 }
