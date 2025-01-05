@@ -8,6 +8,7 @@ This repository contains a Password Authenticator Tool designed to assess the st
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Live Demo](#live-demo)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
@@ -29,6 +30,10 @@ The Password Authenticator Tool is a lightweight and intuitive web-based tool fo
   - Numbers
   - Special characters
 - **Suggestions for Improvement**: Provides actionable tips to improve weak passwords.
+
+## Live Demo
+You can access the live version of the Password Authenticator here:  
+[Password Authenticator Live Demo](https://lishaangral.github.io/password-authenticator/)
 
 ## Technologies Used
 
